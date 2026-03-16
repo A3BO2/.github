@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="" alt="Unigen Main"/>
+  <img src="./assets/Main.png" alt="Unigen Main" style="border-radius: 10px;"/>
 </div>
 
 <br/>
